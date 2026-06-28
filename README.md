@@ -26,6 +26,11 @@ The core insight: existing tools surface signals. What they rarely do is explain
 
 **→ [Open ClaimSense on HuggingFace Spaces](https://huggingface.co/spaces/kshamaasuresh/ClaimSense)**
 
+## Video Presentation
+
+The video presentation has also been uploaded on youtube for clear viewing if required.
+**→ [Open ClaimSense recording on Youtube]([https://huggingface.co/spaces/kshamaasuresh/ClaimSense](https://youtu.be/Roi1XCxqhKQ?is=7VeslUN_WsPBcBt7))**
+
 The app runs on HuggingFace's free CPU tier. All four pages are interactive:
 
 - **📊 Claims Dashboard** — risk distribution, anomaly type breakdown, color-coded claims table
