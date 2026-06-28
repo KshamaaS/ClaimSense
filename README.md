@@ -29,6 +29,7 @@ The core insight: existing tools surface signals. What they rarely do is explain
 ## Video Presentation
 
 The video presentation has also been uploaded on youtube for clear viewing if required.
+
 **→ [Open ClaimSense recording on Youtube](https://youtu.be/Roi1XCxqhKQ?is=nLKsfKCDvCvnAuwZ)**
 
 The app runs on HuggingFace's free CPU tier. All four pages are interactive:
