@@ -1,4 +1,4 @@
-# ClaimSense — Cotiviti AI Internship Assessment
+# ClaimSense
 
 **Candidate:** Kshamaa Suresh  
 **Institution:** Columbia University, MS Data Science (December 2026)  
